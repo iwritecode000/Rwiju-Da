@@ -1,7 +1,8 @@
 import React from "react";
+import Caraosel from "./Caraosel";
 
 const Home = () => {
-  return <div>Home</div>;
+  return <><Caraosel/></>;
 };
 
 export default Home;

@@ -3,6 +3,7 @@ import Caraosel from "./Caraosel";
 import AboutComponent from "./AboutComponent";
 import Cards from "./Cards";
 import Gallery from "./Gallery";
+import checkOutvideos from "./checkOutvideos";
 
 const Home = () => {
   return <>
@@ -10,6 +11,7 @@ const Home = () => {
   <AboutComponent/>
   <Cards/>
   <Gallery/>
+<checkOutvideos/>
   </>;
 };
 

@@ -4,6 +4,7 @@ import AboutComponent from "./AboutComponent";
 import Cards from "./Cards";
 import Gallery from "./Gallery";
 import CheckVideos from "./CheckVideos";
+import ContactForm from "./ContactForm";
 
 const Home = () => {
   return <>
@@ -12,6 +13,7 @@ const Home = () => {
     <Cards />
     <Gallery />
     <CheckVideos/>
+    <ContactForm/>
   </>;
 };
 

@@ -1,9 +1,9 @@
 import React from 'react'
 
-const checkOutvideos = () => {
+const CheckVideos = () => {
   return (
     <>
-      <section class="main_heading my-5 py-2">
+     <section class="main_heading my-5 py-2">
       <div class="container-fluid">
         <div class="row">
           <div class="col-12 col-xxl-12 py-5 offer_style text-center">
@@ -43,4 +43,4 @@ const checkOutvideos = () => {
   )
 }
 
-export default checkOutvideos
+export default CheckVideos

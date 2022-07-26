@@ -3,15 +3,15 @@ import Caraosel from "./Caraosel";
 import AboutComponent from "./AboutComponent";
 import Cards from "./Cards";
 import Gallery from "./Gallery";
-import checkOutvideos from "./checkOutvideos";
+import CheckVideos from "./CheckVideos";
 
 const Home = () => {
   return <>
-  <Caraosel/>
-  <AboutComponent/>
-  <Cards/>
-  <Gallery/>
-<checkOutvideos/>
+    <Caraosel />
+    <AboutComponent />
+    <Cards />
+    <Gallery />
+    <CheckVideos/>
   </>;
 };
 
